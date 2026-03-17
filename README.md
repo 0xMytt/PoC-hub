@@ -3,7 +3,7 @@
 PoC 命名规则（格式）：
 
 ```text
-{Vendor}{Product}{Version{VulnType}{CVE/CNVD/CustomID}.py
+{Vendor}_{Product}_{Version}_{VulnType}_{CVE/CNVD/CustomID}.py
 ```
 
 字段说明：
